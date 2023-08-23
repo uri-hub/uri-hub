@@ -56,6 +56,6 @@ Em 2021 tive meu primeiro contato com a programação enquanto exercia a funçã
 
 ![Visualizações](https://komarev.com/ghpvc/?username=uri-hub&style=plastic&label=VIEWS)
 [![Static Badge](https://img.shields.io/badge/EN-US?style=flat&logoColor=%23ffffff&label=LANG%3A&labelColor=%23E01437&color=%234D62A6)
-](#EN-US)
+]((https://github.com/uri-hub/uri-hub/blob/main/README-EN.md)https://github.com/uri-hub/uri-hub/blob/main/README-EN.md)
 
 </div>
