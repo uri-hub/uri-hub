@@ -58,6 +58,6 @@ In 2021 I had my first contact with programming while I was coordinator of a mus
 <div align="right">
 
 ![Visualizações](https://komarev.com/ghpvc/?username=uri-hub&style=plastic&label=VIEWS)
-[![Static Badge](https://img.shields.io/badge/PT-BR?style=flat&logoColor=%23079B49&label=LANG%3A&labelColor=%23FEE000&color=%23328A5B)](#PT-BR)
+[![Static Badge](https://img.shields.io/badge/PT-BR?style=flat&logoColor=%23079B49&label=LANG%3A&labelColor=%23FEE000&color=%23328A5B)](https://github.com/uri-hub/uri-hub/blob/main/README.md)
 
 </div>
