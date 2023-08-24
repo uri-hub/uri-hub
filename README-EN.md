@@ -52,7 +52,7 @@ In 2021 I had my first contact with programming while I was coordinator of a mus
 [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/uprieto)
 [![CodePen](https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black)](https://codepen.io/uprieto)
 
-![linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=uri-hub&theme=synthwave&custom_title=Most%20used%20languages)
+![linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=uri-hub&theme=aura&custom_title=Most%20used%20languages)
 
 
 <div align="right">
