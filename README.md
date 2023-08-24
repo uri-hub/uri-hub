@@ -38,8 +38,8 @@ Em 2021 tive meu primeiro contato com a programação enquanto exercia a funçã
 ## 📚 Cursos 
 
 <a href="https://hermes.dio.me/certificates/cover/848F96E4.jpg"><img src="https://hermes.digitalinnovation.one/assets/diome/logo-full.svg" alt="Certificado Bootcamp Java Developer" title="Bootcamp Java Developer" width="30" height="30"/></a>
-<a href="https://aulas.cubos.academy/turma/00b71bce-3f46-40f2-9662-bcd02ccad0bd"><img src="image-2.png" alt="Cubos Academy logo" title="Cubos Academy Desenvolvimento de Software - Foco em Backend - Ifood" width="30" height="30"/></a>
-<a href="https://workover.com.br/especiais/softex-programa-trends-it"><img src="image-3.png" alt="WorkOver Academy logo" title="Workover Academy Web Fullstack" width="120" height="30"/></a>
+<a href="https://aulas.cubos.academy/turma/00b71bce-3f46-40f2-9662-bcd02ccad0bd"><img src="https://avatars.githubusercontent.com/u/64142676?s=280&v=4" alt="Cubos Academy logo" title="Cubos Academy Desenvolvimento de Software - Foco em Backend - Ifood" width="30" height="30"/></a>
+<a href="https://workover.com.br/especiais/softex-programa-trends-it"><img src="https://loja.workover.com.br/images/logos/workover-academy.png" alt="WorkOver Academy logo" title="Workover Academy Web Fullstack" width="120" height="30"/></a>
 <a href="https://www.codecademy.com/profiles/FamousUnknown/certificates/9a5bb1fc45b4281af1fffec93b0aaf05"><img src="https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=1F243A" alt="Codecademy logo" title="Learn CSS Course Certificate" width="120" height="30"/></a>
 <a href="https://www.codecademy.com/profiles/FamousUnknown/certificates/9eb0741e5ebef1f9f58a53bfac67d3a7"><img src="https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=1F243A" alt="Codecademy logo" title="Learn HTML Course Certificate" width="120" height="30"/></a>
 
