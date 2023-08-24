@@ -50,7 +50,7 @@ Em 2021 tive meu primeiro contato com a programação enquanto exercia a funçã
 [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/uprieto)
 [![CodePen](https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black)](https://codepen.io/uprieto)
 
-![linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=uri-hub&theme=synthwave&custom_title=Linguagens%20Mais%20Utilizadas)
+![linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=uri-hub&theme=aura&custom_title=Linguagens%20Mais%20Utilizadas)
 
 <div align="right">
 
