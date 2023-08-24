@@ -37,13 +37,13 @@ In 2021 I had my first contact with programming while I was coordinator of a mus
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
-## Courses
+## 📚 Courses 
 
-![JAVASCRIPT](https://img.shields.io/badge/JAVASCRIPT%20BACKEND%20CUBOS%20ACADEMY-D818A5)
-![JAVA](https://img.shields.io/badge/BOOTCAMP%20JAVA%20DIO-8647AD)
-![HTML](https://img.shields.io/badge/HTML%20CODECADEMY-141C3A)
-![CSS](https://img.shields.io/badge/CSS%20CODECADEMY-141C3A)
-![PYTHON](https://img.shields.io/badge/PYTHON%20WORKOVER%20ACADEMY-E0A41F)
+<a href="https://hermes.dio.me/certificates/cover/848F96E4.jpg"><img src="https://hermes.digitalinnovation.one/assets/diome/logo-full.svg" alt="Certificado Bootcamp Java Developer" title="Bootcamp Java Developer" width="30" height="30"/></a>
+<a href="https://aulas.cubos.academy/turma/00b71bce-3f46-40f2-9662-bcd02ccad0bd"><img src="image-2.png" alt="Cubos Academy logo" title="Cubos Academy Desenvolvimento de Software - Foco em Backend - Ifood" width="30" height="30"/></a>
+<a href="https://workover.com.br/especiais/softex-programa-trends-it"><img src="image-3.png" alt="WorkOver Academy logo" title="Workover Academy Web Fullstack" width="120" height="30"/></a>
+<a href="https://www.codecademy.com/profiles/FamousUnknown/certificates/9a5bb1fc45b4281af1fffec93b0aaf05"><img src="https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=1F243A" alt="Codecademy logo" title="Learn CSS Course Certificate" width="120" height="30"/></a>
+<a href="https://www.codecademy.com/profiles/FamousUnknown/certificates/9eb0741e5ebef1f9f58a53bfac67d3a7"><img src="https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=1F243A" alt="Codecademy logo" title="Learn HTML Course Certificate" width="120" height="30"/></a>
 
 ## 🕵️‍♂️ Reach me:
 
