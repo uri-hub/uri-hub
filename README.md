@@ -2,7 +2,7 @@
 
 💻 **Desenvolvedor Back-End**  
 
-👨‍🎓	Eu estudo | [Desenvolvimento de Software](https://cubos.academy/cursos/desenvolvimento-de-software) | [@Cubos Academy](https://cubos.academy/)
+👨‍🎓	Eu estudo | [Engenharia de Software]([https://cubos.academy/cursos/desenvolvimento-de-software](https://www.cruzeirodosulvirtual.com.br/graduacao/engenharia-de-software/)) | [@Unicsul]([https://cubos.academy/](https://www.cruzeirodosulvirtual.com.br/))
 
 Em 2021 tive meu primeiro contato com a programação enquanto exercia a função de coordenador de uma loja de instrumentos musicais e em 2023 busco a minha primeira oportunidade a fim de efetivar minha transição de carreira. Atualmente sou **desenvolvedor de software back-end** em formação com enfase em Javascript e Node.js.
 
